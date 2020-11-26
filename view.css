@@ -1,6 +1,9 @@
 body {
 	background-color: #191970;
 	text-align: center;
+	width: 100em;
+	max-width: calc(100% - 3em);
+	margin: 0 auto;
 }
 
 h1#name {
@@ -19,12 +22,11 @@ p#name{
 div#content {
 	border-radius: 1em;
 	background-color: white;
+	border: 1px solid black;
+	
 	padding: 3em;
-	padding-top: 2em;
-	margin-top: 3em;
-	margin-bottom: 2em;
-	margin-left: 10em;
-	margin-right: 10em;
+	padding-top: 1.5em;
+	
 }
 
 main#main {
