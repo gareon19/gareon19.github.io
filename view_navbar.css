@@ -1,3 +1,7 @@
+.nav-wrapper {
+	height: 6em;
+}
+
 .topnav {
   background-color: #B0C4DE;
   overflow: hidden;
