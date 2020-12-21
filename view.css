@@ -8,10 +8,25 @@ body {
 	text-align: center;
 }
 
-div#page{
-	width: 100em;
-	max-width: calc(100% - 3em);
-	margin: 0 auto;
+h2 {
+	font-size: 1.75em;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+h4 {
+	font-size: 1.75em;
+}
+
+p {
+	font-size: 1.5em;
+}
+
+a {
+	color: black;
+	text-decoration: none;
 }
 
 h1#name {
@@ -27,10 +42,22 @@ p#name{
 	margin-bottom:1.2em;
 }
 
-div#content {
+div.content{
+	overflow:auto;
+	clear:both;
+}
+
+div#fullContent {
 	border-radius: 1em;
 	background-color: white;
-	border: 1px solid black;	
+	border: 1px solid black;
+	margin-bottom: 3em;
+}
+
+div#page{
+	width: 100em;
+	max-width: calc(100% - 3em);
+	margin: 0 auto;
 }
 
 main#main {
@@ -40,14 +67,21 @@ main#main {
 	color: black;
 }
 
-h2 {
-	font-size: 2em;
+span#description{
+	float: left;
+	width: 50%;
 }
 
-h3 {
-	font-size: 1.75em;
+span#foto{
+	float: right;
+	width: 30%;
+	height: 10%;
 }
 
-p {
-	font-size: 1.5em;
+img#akfoto{
+	display: block;
+	border-radius: 10%;
+	width: 16em;
 }
+
+
