@@ -69,19 +69,19 @@ main#main {
 
 span#description{
 	float: left;
-	width: 50%;
+	width: 30em;
+	height: 20em;
 }
 
 span#foto{
 	float: right;
-	width: 30%;
-	height: 10%;
+	margin-right: 10em;
 }
 
 img#akfoto{
 	display: block;
 	border-radius: 10%;
-	width: 16em;
+	width: 15em;
 }
 
 
