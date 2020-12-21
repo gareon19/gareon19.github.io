@@ -29,6 +29,10 @@ a {
 	text-decoration: none;
 }
 
+a.link:hover{
+	color: blue;
+}
+
 h1#name {
 	color: white;
 	font-size: 6em;
@@ -56,32 +60,34 @@ div#fullContent {
 
 div#page{
 	width: 100em;
-	max-width: calc(100% - 3em);
+	max-width: 100%;
 	margin: 0 auto;
 }
 
 main#main {
 	padding: 3em;
-	padding-top: 1em;
 	text-align: left;
 	color: black;
 }
 
 span#description{
+	overflow:auto;
 	float: left;
 	width: 30em;
-	height: 20em;
+	max-width: 80%;
 }
 
 span#foto{
-	float: right;
-	margin-right: 10em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 img#akfoto{
-	display: block;
+	display: inline-block;
 	border-radius: 10%;
 	width: 15em;
+	max-width: calc(100%);
 }
 
 
