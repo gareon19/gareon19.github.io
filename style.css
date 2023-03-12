@@ -70,7 +70,7 @@ main#main {
 	color: black;
 }
 
-span#description{
+div#description{
 	overflow:auto;
 	float: left;
 	width: 30em;

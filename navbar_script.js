@@ -1,18 +1,30 @@
+var active = "active"
 var navbar = document.getElementById("topNav");
 var sticky = navbar.offsetTop;
+const navbtns = navbar.getElementsByTagName("a");
+const sections = document.querySelectorAll("section");
 
-checkActive();
-window.onscroll = function() {stickyness()};
+window.onscroll = function() {stickyness(), checkActive()};
 
 function checkActive(){
-	var btns = navbar.getElementsByTagName("a");
-	for (var i = 0; i < btns.length; i++) {
-		btns[i].addEventListener("click", function() {
-		var current = navbar.getElementsByClassName("active");
-		current[0].className = current[0].className.replace("active", "");
-		this.className += "active";
-		});
-	} 
+	var current = sections[0].getAttribute("id");
+
+	sections.forEach((section) => {
+		const sectionTop = section.offsetTop;
+		if (pageYOffset + navbar.offsetHeight*1.5 >= sectionTop ) {
+		current = section.getAttribute("id"); }
+	});
+
+	prevActive = navbar.getElementsByClassName(active)
+	console.log(prevActive[0].className);
+	if (prevActive[0].className != current+" "+active) {
+		prevActive[0].className = prevActive[0].className.replace(" "+active, "")
+		for (var i = 0; i < navbtns.length; i++) {
+			if(navbtns[i].className == current){
+				navbtns[i].className += " "+active;
+			}
+		}
+	}
 }
 
 function stickyness() {
