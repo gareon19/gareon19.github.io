@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+	<menu name="Älplermagronen, Gemüse">
+		<ingredient name="Rohesspeck" amount="100g" location="Fleisch"></ingredient>
+		<ingredient name="Zwiebel" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Knoblauchzehe" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Halbrahm" amount="2dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Kartoffeln" amount="400g" location="Gemüse"></ingredient>
+		<ingredient name="Magronen" amount="250g" location="Pasta"></ingredient>
+		<ingredient name="Gruyère" amount="100g" location="Milchprodukt"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+		<ingredient name="Apfelmuss" amount="1" location="Pasta"></ingredient>
+	</menu>
+	<menu name="Ämmitaler Pfännli, Salat">
+		<ingredient name="Speckwürfel" amount="200g" location="Fleisch"></ingredient>
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Lauchstängel" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Kartoffeln" amount="720g" location="Gemüse"></ingredient>
+		<ingredient name="Halbrahm" amount="1dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Bouillon" amount="2.5dl" location="Pasta"></ingredient>
+		<ingredient name="Gruyère" amount="150g" location="Milchprodukt"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name= "Broccoli-Gratin">
+		<ingredient name="Kartoffeln" amount="600g" location="Gemüse"></ingredient>
+		<ingredient name="Broccoli" amount="800g" location="Tiefkühl"></ingredient>
+		<ingredient name="Raclette-Käse" amount="200g" location="Milchprodukt"></ingredient>
+		<ingredient name="Halbrahm" amount="2.5dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Saurer Halbrahm" amount="2dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Eier" amount="1" location="Milchprodukt"></ingredient>
+		<ingredient name="Muskat" amount="10g" location="Pasta"></ingredient>
+	</menu>
+	<menu name="Chippolata, Polenta, Broccoli">
+		<ingredient name="Chippolata" amount="16" location="Fleisch"></ingredient>
+		<ingredient name="Polenta" amount="120g" location="Pasta"></ingredient>
+		<ingredient name="Gruyère" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Broccoli" amount="300g" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Conchiglioni">
+		<ingredient name="Ricotta" amount="250g" location="Milchprodukt"></ingredient>
+		<ingredient name="Rahmspinat" amount="250g" location="Tiefkühl"></ingredient>
+		<ingredient name="Conchiglioni" amount="250g" location="Pasta"></ingredient>
+		<ingredient name="Zwiebel" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Tomaten (Dose)" amount="250g" location="Pasta"></ingredient>
+		<ingredient name="Parmesan" amount="25g" location="Milchprodukt"></ingredient>
+	</menu>
+	<menu name="Fajitas">
+		<ingredient name="Pouletgeschnetzeltes" amount="350g" location="Fleisch"></ingredient>
+		<ingredient name="Peperoni" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Grüner Salat" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Cocktailsauce" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Fajita Gewürz" amount="1" location="Tiefkühl"></ingredient>
+		<ingredient name="Mais Dose" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Tortillas" amount="8" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Fischstäbchen, Salzkartoffeln, Rahmspinat">
+		<ingredient name="Fischstäbchen" amount="12" location="Tiefkühl"></ingredient>
+		<ingredient name="Kartoffeln" amount="600g" location="Gemüse"></ingredient>
+		<ingredient name="Rahmspinat" amount="250g" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Fitnessteller">
+		<ingredient name="Pouletbrüstli" amount="2" location="Fleisch"></ingredient>
+		<ingredient name="Grüner Salat" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Randensalat" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Karotte" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Gurke" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Mais Dose" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Kräuterbutter" amount="1" location="Fleisch"></ingredient>
+	</menu>
+	<menu name="Flammkuchen, Salat">
+		<ingredient name="Flammkuchenteig" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Crème Fraîche" amount="1 Packung" location="Milchprodukt"></ingredient>
+		<ingredient name="Zwiebel" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Speckwürfel" amount="240g" location="Fleisch"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Fleisch, Tortellini, Gemüse">
+		<ingredient name="Fleisch" amount="4" location="Fleisch"></ingredient>
+		<ingredient name="Tortellini" amount="500g" location="Pasta"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Fleisch, Gnocchi, Gemüse">
+		<ingredient name="Fleisch" amount="4" location="Fleisch"></ingredient>
+		<ingredient name="Gnocchi" amount="500g" location="Pasta"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Fleisch, Käseplätzli, Maiskolben">
+		<ingredient name="Fleisch" amount="4" location="Fleisch"></ingredient>
+		<ingredient name="Käseplätzli" amount="2 Packung" location="Milchprodukt"></ingredient>
+		<ingredient name="Maiskolben" amount="4" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Fleischbällchen, Pasta, Spinat">
+		<ingredient name="Fleischbällchen" amount="1 Packung" location="Fleisch"></ingredient>
+		<ingredient name="Pasta" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Rahmspinat" amount="250g" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Fleischkuchen, Salat">
+		<ingredient name="Blätterteig rund" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Gehacktes Rindfleisch" amount="300g" location="Fleisch"></ingredient>
+		<ingredient name="Speckwürfel" amount="120g" location="Fleisch"></ingredient>
+		<ingredient name="Gruyère" amount="150g" location="Milchprodukt"></ingredient>
+		<ingredient name="Tomaten" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Scheibenkäse" amount="4" location="Milchprodukt"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Fondüe">
+		<ingredient name="Fondüekäse" amount="1 Packung" location="Milchprodukt"></ingredient>
+		<ingredient name="Fondüebrot" amount="1 Packung" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Gefüllte Kartoffeln">
+		<ingredient name="Kartoffeln" amount="1000g" location="Gemüse"></ingredient>
+		<ingredient name="Gruyère" amount="200g" location="Milchprodukt"></ingredient>
+		<ingredient name="Saurer Halbrahm" amount="1dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Speckwürfel" amount="200g" location="Fleisch"></ingredient>
+	</menu>
+	<menu name="Gefüllte Peperoni">
+		<ingredient name="Peperoni" amount="6" location="Gemüse"></ingredient>
+		<ingredient name="Zwiebel" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Tomaten" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Schwarze Oliven" amount="50g" location="Tiefkühl"></ingredient>
+		<ingredient name="Gehacktes Rindfleisch" amount="400g" location="Fleisch"></ingredient>
+		<ingredient name="Mozzarella" amount="100g" location="Milchprodukt"></ingredient>
+	</menu>
+	<menu name="Gehacktes mit Hörnli, Gemüse">
+		<ingredient name="Gehacktes Rindfleisch" amount="300g" location="Fleisch"></ingredient>
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Karotte" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Knollensellerie" amount="60g" location="Gemüse"></ingredient>
+		<ingredient name="Tomatenpüree" amount="1 Tube" location="Pasta"></ingredient>
+		<ingredient name="Rotwein" amount="1.5dl" location="Wein"></ingredient>
+		<ingredient name="Fleischbouillon" amount="1.5dl" location="Pasta"></ingredient>
+		<ingredient name="Hörnli" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Gruyère" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Hamburger, Bratkartoffeln, Buttergemüse">
+		<ingredient name="Kartoffeln" amount="600g" location="Gemüse"></ingredient>
+		<ingredient name="Hamburger" amount="4" location="Fleisch"></ingredient>
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Buttergemüse" amount="250g" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Hot Dog, Salat">
+		<ingredient name="Hot-Dog Brötchen" amount="8" location="Gemüse"></ingredient>
+		<ingredient name="Wienerli" amount="8" location="Fleisch"></ingredient>
+		<ingredient name="Scheibenkäse" amount="8" location="Milchprodukt"></ingredient>
+		<ingredient name="Karotte" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Knollensellerie" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Hörnligratin mit Hackfleisch, Salat">
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Getrocknete Tomaten" amount="120g" location="Tiefkühl"></ingredient>
+		<ingredient name="Hackfleisch" amount="300g" location="Fleisch"></ingredient>
+		<ingredient name="Tomatenpüree" amount="1 Tube" location="Pasta"></ingredient>
+		<ingredient name="Dose Cherry-Tomaten" amount="400g" location="Pasta"></ingredient>
+		<ingredient name="Teigwaren" amount="350g" location="Pasta"></ingredient>
+		<ingredient name="Gruyère" amount="100g" location="Milchprodukt"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Kartoffelstock, Gemüse">
+		<ingredient name="Kartoffelstock" amount="1.5 Beutel" location="Pasta"></ingredient>
+		<ingredient name="Bratkügeli" amount="1 Packung" location="Fleisch"></ingredient>
+		<ingredient name="Bratensauce" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Käsespätzle, Gemüse">
+		<ingredient name="Spätzle" amount="800g" location="Pasta"></ingredient>
+		<ingredient name="Halbrahm" amount="4dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Gruyère" amount="200g" location="Milchprodukt"></ingredient>
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Ofenfrittes, Chips Nuggets, Gemüse">
+		<ingredient name="Ofenfrittes" amount="1 Packung" location="Tiefkühl"></ingredient>
+		<ingredient name="Pouletbrüstli" amount="2" location="Fleisch"></ingredient>
+		<ingredient name="Eier" amount="1" location="Milchprodukt"></ingredient>
+		<ingredient name="Paprika Chips" amount="1 Packung" location="Pasta"></ingredient>
+		<ingredient name="Zitrone" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="One Pot Hörnli-Cervelat, (Salat)">
+		<ingredient name="Karotte" amount="3" location="Gemüse"></ingredient>
+		<ingredient name="Champignons" amount="150g" location="Pasta"></ingredient>
+		<ingredient name="Cervelats" amount="2" location="Fleisch"></ingredient>
+		<ingredient name="Teigwaren" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Mais Dose" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Gehackte Tomaten" amount="1 Dose Klein" location="Pasta"></ingredient>
+		<ingredient name="Saurer Halbrahm" amount="1.25dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Gruyère" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Pad Thai">
+		<ingredient name="Pouletgeschnetzeltes" amount="250g" location="Fleisch"></ingredient>
+		<ingredient name="Karotte" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Zwiebel" amount="3" location="Gemüse"></ingredient>
+		<ingredient name="Knoblauchzehe" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Jungspinat" amount="100g" location="Gemüse"></ingredient>
+		<ingredient name="Reisnudeln" amount="240g" location="Pasta"></ingredient>
+		<ingredient name="Eier" amount="4" location="Milchprodukt"></ingredient>
+		<ingredient name="Sojasauce" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Limette" amount="2" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Pangasius, Bratkartoffeln, Spinat">
+		<ingredient name="Pangasius" amount="1 Packung" location="Tiefkühl"></ingredient>
+		<ingredient name="Kartoffeln" amount="600g" location="Gemüse"></ingredient>
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Rahmspinat" amount="250g" location="Tiefkühl"></ingredient>
+		<ingredient name="Tartarsauce" amount="1" location="Pasta"></ingredient>
+	</menu>
+	<menu name="Pizza, Salat">
+		<ingredient name="Pizzateig (gross)" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Tomatensauce" amount="1 tetra pack" location="Pasta"></ingredient>
+		<ingredient name="Schinken" amount="100g" location="Fleisch"></ingredient>
+		<ingredient name="Champignons" amount="200g" location="Pasta"></ingredient>
+		<ingredient name="Mozzarella" amount="300g" location="Milchprodukt"></ingredient>
+		<ingredient name="Peperoni" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Schwarze Oliven" amount="150g" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Pouletbrüstli Cinque π, Gemüse">
+		<ingredient name="Teigwaren" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Pouletbrüstli" amount="4" location="Fleisch"></ingredient>
+		<ingredient name="Halbrahm" amount="2.5dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Dose Pelati" amount="400g" location="Pasta"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Raclette">
+		<ingredient name="Raclette-Käse" amount="400g" location="Milchprodukt"></ingredient>
+		<ingredient name="Kleine Kartoffeln" amount="1 Packung" location="Gemüse"></ingredient>
+		<ingredient name="Essiggurken" amount="1 Glas" location="Pasta"></ingredient>
+		<ingredient name="Silberzwiebeln" amount="1 Glas" location="Pasta"></ingredient>
+	</menu>
+	<menu name="Rahmschnitzel, Nüdeli, Gemüse">
+		<ingredient name="Pouletbrüstli" amount="2" location="Fleisch"></ingredient>
+		<ingredient name="Nüdeli" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Champignons" amount="150g" location="Pasta"></ingredient>
+		<ingredient name="Bouillon" amount="1.5dl" location="Pasta"></ingredient>
+		<ingredient name="Halbrahm" amount="1.5dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Reis Süss-Sauer, Frühlingsrolle, Buttergemüse">
+		<ingredient name="Reis" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Frühlingsrolle" amount="1 Packung" location="Tiefkühl"></ingredient>
+		<ingredient name="Süss-Sauer Sauce" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Buttergemüse" amount="250g" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Risotto Milanese, Gemüse">
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Knoblauchzehe" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Risottoreis" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Weisswein" amount="4dl" location="Wein"></ingredient>
+		<ingredient name="Safran" amount="2 Briefchen" location="Pasta"></ingredient>
+		<ingredient name="Bouillon" amount="10dl" location="Pasta"></ingredient>
+		<ingredient name="Parmesan" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Rösti, Salat">
+		<ingredient name="Rösti" amount="500g" location="Pasta"></ingredient>
+		<ingredient name="Eier" amount="4" location="Milchprodukt"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Schinkengipfeli, Gurkensalat">
+		<ingredient name="Rahmquark" amount="150g" location="Milchprodukt"></ingredient>
+		<ingredient name="Schinken" amount="200g" location="Fleisch"></ingredient>
+		<ingredient name="Blätterteig rund" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Eier" amount="1" location="Milchprodukt"></ingredient>
+		<ingredient name="Gurkensalat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Sommermagronen">
+		<ingredient name="Kartoffeln" amount="300g" location="Gemüse"></ingredient>
+		<ingredient name="Älpermagronen" amount="300g" location="Pasta"></ingredient>
+		<ingredient name="Zwiebel" amount="3" location="Gemüse"></ingredient>
+		<ingredient name="Sbrinz" amount="100g" location="Milchprodukt"></ingredient>
+		<ingredient name="Zucchetti" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Peperoni" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Speckwürfel" amount="120g" location="Fleisch"></ingredient>
+		<ingredient name="Halbrahm" amount="2dl" location="Milchprodukt"></ingredient>
+	</menu>	
+	<menu name="Spaghetti Bolognese, Salat">
+		<ingredient name="Spaghetti" amount="400g" location="Pasta"></ingredient>
+		<ingredient name="Gehacktes Rindfleisch" amount="400g" location="Fleisch"></ingredient>
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Knoblauchzehe" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Lauchstängel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Karotte" amount="3" location="Gemüse"></ingredient>
+		<ingredient name="Stangensellerie" amount="150g" location="Gemüse"></ingredient>
+		<ingredient name="Tomatenpüree" amount="1 Tube" location="Pasta"></ingredient>
+		<ingredient name="Rotwein" amount="1dl" location="Wein"></ingredient>
+		<ingredient name="Gehackte Tomaten" amount="1 Dose Klein" location="Pasta"></ingredient>
+		<ingredient name="Fleischbouillon" amount="2dl" location="Pasta"></ingredient>
+		<ingredient name="Gruyère" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>	
+	<menu name="Spaghetti Carbonara, Salat">
+		<ingredient name="Spaghetti" amount="400g" location="Pasta"></ingredient>
+		<ingredient name="Eier" amount="2" location="Milchprodukt"></ingredient>
+		<ingredient name="Parmesan" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Halbrahm" amount="2dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Speckwürfel" amount="100g" location="Fleisch"></ingredient>
+		<ingredient name="Knoblauchzehe" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Spätzlipfanne">
+		<ingredient name="Zwiebel" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Karotte" amount="4" location="Gemüse"></ingredient>
+		<ingredient name="Spätzle" amount="500g" location="Pasta"></ingredient>
+		<ingredient name="Halbrahm" amount="1dl" location="Milchprodukt"></ingredient>
+		<ingredient name="Gruyère" amount="100g" location="Milchprodukt"></ingredient>
+	</menu>
+	<menu name="Teigwaren, Pesto, Gemüse">
+		<ingredient name="Teigwaren" amount="400g" location="Pasta"></ingredient>
+		<ingredient name="Pesto" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Parmesan" amount="50g" location="Milchprodukt"></ingredient>
+		<ingredient name="Gemüse" amount="1" location="Tiefkühl"></ingredient>
+	</menu>
+	<menu name="Wienerli im Teig, Salat">
+		<ingredient name="Wienerli" amount="8" location="Fleisch"></ingredient>
+		<ingredient name="Blätterteig eckig" amount="1" location="Gemüse"></ingredient>
+		<ingredient name="Senf" amount="1" location="Pasta"></ingredient>
+		<ingredient name="Salat" amount="1" location="Gemüse"></ingredient>
+	</menu>
+	<menu name="Zucchetti-Gnocchi Pfanne">
+		<ingredient name="Gnocchi" amount="750g" location="Pasta"></ingredient>
+		<ingredient name="Zucchetti" amount="2" location="Gemüse"></ingredient>
+		<ingredient name="Jungspinat" amount="200g" location="Gemüse"></ingredient>
+		<ingredient name="Butter" amount="60g" location="Milchprodukt"></ingredient>
+	</menu>
+</menus> 
