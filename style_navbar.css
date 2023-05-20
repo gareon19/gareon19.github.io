@@ -24,7 +24,7 @@
 }
 
 /* Change the color of links on hover */
-@media only screen and (min-width: 600px) {
+@media all and (min-width: 600px) {
 	.topnav a:hover {
 	  background-color: #ddd;
 	}
