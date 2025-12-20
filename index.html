@@ -1,9 +1,124 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Alain Kolp</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style_navbar.css">
+</head>
 <body>
+<div id="page">
+<header id="head">
+	<h1 id = "name">Alain Kolp</h1>
+	<p id = "name">Software Developer</p>
+</header>
 
-<h1>Hello World</h1>
-<p>This is a website.</p>
+<div id="fullContent">
+	<div class="nav-wrapper">
+		<div class ="topnav" id="topNav" onclick="checkActive()">
+			<a class="home active" href="#home">Home</a>
+			<a class="education" href="#education">Education</a>
+			<a class="workexp" href="#workexp">Work Experience</a>
+			<a class="apks" href="#apks">Applications</a>
+		</div>
+	</div>
+	
+	<main id="main">
+		<div class="content">
+			<nav class="hide-mobile">
+				<section id="home">
+					<div id="description">
+						<h2>Alain Kolp</h2>
+						<p>Software Developer (Backend)</p>
+						<p><a class = "link" href="https://www.bit.admin.ch" target="_blank">Bundesamt für Informatik (BIT)</a>, Switzerland</p>
+						<p>E-mail: <a class = "link" href="mailto:alain.kolp@hotmail.com">alain.kolp@hotmail.com</a></p>
+						<p>LinkedIn: <a class = "link" href="https://www.linkedin.com/in/alain-kolp-185712127/" target="_blank">Alain Kolp</a></p>
+					</div>
+					<span id="foto">
+						<img id="akfoto" src="images/alainkolp.jpg" alt="">
+					</span>
+				</section>
+			</nav>
+			
+			<nav class="show-mobile">
+				<section id="home">
+					<span id="foto">
+						<img id="akfoto" src="images/alainkolp.jpg" alt="">
+					</span>
+					<h2>Alain Kolp</h2>
+					<p>Software Developer (Backend)</p>
+					<p><a class = "link" href="https://www.bit.admin.ch/bit/de/home/dokumentation/kundenzeitschrift-eisbrecher/eisbrecher-archiv/kundenzeitschrift-eisbrecher-ausgabe-77/transformation-bit.html" target="_blank">Digitalisierungs-Plattform (DIP)</a></p>
+					<p><a class = "link" href="https://www.bit.admin.ch" target="_blank">BIT</a>, Switzerland</p>
+					<p>E-mail: <a class = "link" href="mailto:alain.kolp@hotmail.com">alain.kolp@hotmail.com</a></p>
+					<p>LinkedIn: <a class = "link" href="https://www.linkedin.com/in/alain-kolp-185712127/" target="_blank">Alain Kolp</a></p>
+				</section>
+			</nav>
+			
+			<section id="education">
+			<h2>Education</h2>
+			<ul>
+				<li>
+				<p><b>Master of Arts in Information Management (Oct 2020)</b>, University of Fribourg <br> Graded summa cum laude <br> Thesis title: Development of local search heuristics for the optimization of route planning in the waste management of municipalities</p>
+				</li>
+				<li>
+				<p><b>Bachelor of Arts in Information Management (Oct 2017)</b>, University of Fribourg <br> Graded magna cum laude <br> Thesis title: Planetary Drift - Development of a gravity-based mobile game application</p>
+				</li>
+				<li>
+				<p><b>High school graduation (Jun 2012)</b>, High school Kirchenfeld (Bern) <br> Major subjects: physics and applications of mathematics <br> Thesis title: The A5 east bypass of Biel and its impact on traffic, townscape, quality of life, economy and environment</p>
+				</li>
+			</ul>
+			</section>
+			
+			<section id="workexp">
+			<h2>Work Experience</h2>
+			<ul>
+				<li>
+				<p><b>Backend Software Developer</b>
+				<br>At the <a class = "link" href="https://www.bit.admin.ch" target="_blank">Bundesamt für Informatik und Telekommunikation BIT (BIT)</a>
+				<br>From Jan. 2022 until today</p>
+				</li>
+				<li>
+				<p><b>Intern - Coordinator of IT customer projects</b>
+				<br>At the <a class = "link" href="https://www.bit.admin.ch" target="_blank">Bundesamt für Informatik und Telekommunikation BIT (BIT)</a>
+				<br>From Jan. 2021 until Dec. 2021</p>
+				</li>
+			</ul>
+			</section>
+			
+			<section id="apks">
+			<h2>Created Applications</h2>
+			<div id="slg">
+				<h3>ShoppingListGenerator</h3>
+				<p>The ShoppingListGenerator is an application that facilitates the weekly shopping. The user can create a weekly menu plan and receives the list of ingredients to prepare these menus. 
+				The available menu list can be found and edited in the menus.xml file. Each menu has a name and contains multiple ingredients. Each ingredient has a name an amount and a location at which it can be found in the store.
+				The application is currently only available in german. Feel free to contact me for questions.</p><p>Download for windows x64:</p>
+				<a href="apks/ShoppingListGenerator.zip"><img id="apkfoto" src="images/shopping-icon.png" alt="ShoppingListGenerator.zip"></a>
+				</table>
+			</div>
+			<div id="mike">
+				<h3>M.I.K.E.</h3>
+				<p>M.I.K.E. is a digital assistant that uses voice inputs and performs actions acording to the input. A list of currently available commands can be found in the commands.txt file.</p>
+				<p>Download for windows x64:</p>
+				<a href="apks/M.I.K.E.zip"><img id="apkfoto" src="images/MIKE-icon.png" alt="M.I.K.E.exe"></a>
+			</div>
+			<div id="shcooter">
+				<h3>Shcooter</h3>
+				<p>Shcooter is a game for 1-2 players that combines football & shooting. The aim of the game is to reduce the life of the opponent to zero by shooting the opponent directly
+				and/or scoring goals. Each player can choose a weapon at the start of each round. The ball is moved when a player shoots it. Have fun!</p>
+				<p>Download for windows x64:</p>
+				<a href="apks/Shcooter.zip"><img id="apkfoto" src="images/shcooter-icon.png" alt="Shcooter.zip"></a>
+			</div>
+			<div id="binaryCoder">
+				<h3>Binary Coder</h3>
+				<p>Binary Coder is a simple encryption application that translates a word or a sentence in a binary code using the ASCII table.</p>
+				<p>Download for windows x64:</p>
+				<a href="apks/BinaryCoder.exe"><img id="apkfoto" src="images/BinaryCoder-icon.png" alt="BinaryCoder.exe"></a>
+			</div>
+			</section>
+		</div>
+	</main>
 
+	<script src="navbar_script.js"></script> 
+</div>
+</div>
 </body>
 </html> 

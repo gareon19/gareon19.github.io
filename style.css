@@ -1,0 +1,127 @@
+html {
+	scroll-behavior: smooth;
+	scroll-padding-top: 6em;
+}
+
+body {
+	background-color: #191970;
+	text-align: center;
+}
+
+h2 {
+	margin-top: 1em;
+	font-size: 1.75em;
+}
+
+h3 {
+	font-size: 1.5em;
+	margin-bottom: 1em;
+}
+
+
+p {
+	font-size: calc(15px + 0.390625vw);
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a.link:hover{
+	color: blue;
+}
+
+h1#name {
+	color: white;
+	font-size: 6em;
+	margin-top: 1em;
+	margin-bottom:0em;
+}
+p#name{
+	color: white;
+	font-size: 3em;
+	margin-top:0.2em;
+	margin-bottom:1.2em;
+}
+
+div.content{
+	overflow:auto;
+	clear:both;
+}
+
+div#fullContent {
+	border-radius: 1em;
+	background-color: white;
+	border: 1px solid black;
+	margin-bottom: 3em;
+}
+
+div#page{
+	width: 100em;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+main#main {
+	padding-top: 3em;
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 5%;
+	text-align: left;
+	color: black;
+}
+
+div#description{
+	float: left;
+	width: 30em;
+	max-width: 50%;
+}
+
+section{
+	overflow:auto;
+}
+
+table {
+	width: 60%;
+}
+
+span#foto{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img#akfoto{
+	display: inline-block;
+	border-radius: 10%;
+	width: 15em;
+	max-width: calc(100%);
+}
+
+img#apkfoto{
+	display: inline-block;
+	border-radius: 10%;
+	width: 6em;
+	max-width: calc(100%);
+}
+
+@media only screen and (max-device-width: 480px) {
+    .show-mobile{
+        display: block;
+    }
+    .hide-mobile {
+        display: none;
+    }
+}
+
+ @media only screen and (min-device-width: 481px) {
+	.show-mobile{
+		display: none;
+	}
+	.hide-mobile {
+		display: block;
+	}
+}
+
+
