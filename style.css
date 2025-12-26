@@ -136,9 +136,28 @@ img#apkfoto{
 	}
 }
 
-.button-class {
+.gameButton {
 	background-color: #191970;
-	/* Green */
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1.5em;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .gameButton {
+    display: none;
+  }
+}
+
+.button {
+	background-color: #191970;
 	border: none;
 	color: white;
 	padding: 10px 20px;
