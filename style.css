@@ -150,7 +150,7 @@ img#apkfoto{
 	border-radius: 4px;
 }
 
-@media (max-width: 768px) {
+@media only screen and (max-device-width: 480px) {
   .gameButton {
     display: none;
   }
